@@ -1,0 +1,13 @@
+
+model.joblib
+
+venv/
+.env/
+
+__pycache__/
+*.pyc
+*.pyo
+
+*.log
+
+mini_ds.py

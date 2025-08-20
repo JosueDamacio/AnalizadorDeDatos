@@ -1,0 +1,16 @@
+producto,categoria,precio,costo,stock,cantidad_vendida,calificacion,fecha_ultima_venta,canal,ventas_mes,ticket_promedio,devoluciones,campaña
+Smartphone,Electrónica,119999,85000,13,131,4.7,2025-08-10,Online,22,124999,2,Invierno
+Notebook,Electrónica,347800,270000,9,67,4.5,2025-08-12,Online,10,347800,1,BackToSchool
+Auriculares,Electrónica,15320,9000,41,197,4.2,2025-08-15,Marketplace,35,15800,5,Invierno
+Zapatillas,Indumentaria,35780,21000,27,178,4.6,2025-08-14,Online,28,36200,3,Verano
+Camiseta,Indumentaria,8120,4000,63,149,4.1,2025-08-13,Marketplace,24,8200,4,Verano
+Heladera,Electrodomésticos,218900,170000,6,31,4.8,2025-08-09,Online,4,218900,0,ElectroFest
+Microondas,Electrodomésticos,45210,32000,11,53,4.3,2025-08-11,Online,7,45210,1,ElectroFest
+Silla Gamer,Muebles,40150,25000,12,36,4.4,2025-08-10,Marketplace,6,40150,0,Navidad
+Mesa,Muebles,29870,18000,8,25,4.0,2025-08-08,Online,3,29870,0,Navidad
+Licuadora,Electrodomésticos,18250,12000,19,61,4.2,2025-08-12,Online,8,18250,2,ElectroFest
+Cafetera,Electrodomésticos,24790,16000,22,77,4.5,2025-08-13,Marketplace,12,24790,1,ElectroFest
+Bicicleta,Deportes,89990,60000,7,29,4.6,2025-08-07,Online,5,89990,0,Verano
+Pelota,Deportes,6120,3500,32,94,4.0,2025-08-14,Marketplace,16,6120,3,Verano
+Libro,Libros,5230,2000,52,109,4.9,2025-08-15,Online,18,5230,0,Navidad
+Tablet,Electrónica,79980,60000,10,46,4.3,2025-08-12,Online,6,79980,1,BackToSchool

@@ -1,0 +1,106 @@
+=====Productos más vendidos=====
+   producto  cantidad_vendida
+Auriculares               197
+ Zapatillas               178
+   Camiseta               149
+ Smartphone               131
+      Libro               109
+
+=====Productos con más stock=====
+   producto  stock
+   Camiseta     63
+      Libro     52
+Auriculares     41
+     Pelota     32
+ Zapatillas     27
+
+=====Ingreso total (precio x cant)=====
+  producto  ingreso_total
+  Notebook       23302600
+Smartphone       15719869
+  Heladera        6785900
+Zapatillas        6368840
+    Tablet        3679080
+
+=====Productos con mayor margen de ganancia (unitario)=====
+  producto  margen_ganancia
+  Notebook            77800
+  Heladera            48900
+Smartphone            34999
+ Bicicleta            29990
+    Tablet            19980
+
+=====Productos con mayor rotación de inventario=====
+   producto  rotacion_inventario
+ Smartphone             1.692308
+   Notebook             1.111111
+ Zapatillas             1.037037
+Auriculares             0.853659
+  Bicicleta             0.714286
+
+=====Productos con más ventas este mes=====
+   producto  ventas_mes
+Auriculares          35
+ Zapatillas          28
+   Camiseta          24
+ Smartphone          22
+      Libro          18
+
+=====Ventas totales por canal=====
+canal
+Online         730
+Marketplace    553
+
+=====Productos con mayor ticket promedio=====
+  producto  ticket_promedio
+  Notebook           347800
+  Heladera           218900
+Smartphone           124999
+ Bicicleta            89990
+    Tablet            79980
+
+=====Productos con mayor tasa de devolución=====
+   producto  tasa_devolucion
+  Licuadora         0.032787
+     Pelota         0.031915
+   Camiseta         0.026846
+Auriculares         0.025381
+     Tablet         0.021739
+
+=====Ventas totales por campaña=====
+campaña
+Verano          450
+Invierno        328
+ElectroFest     222
+Navidad         170
+BackToSchool    113
+
+=====Productos mejor calificados=====
+  producto  calificacion
+     Libro           4.9
+  Heladera           4.8
+Smartphone           4.7
+ Bicicleta           4.6
+Zapatillas           4.6
+
+=====Productos con ventas más recientes=====
+   producto fecha_ultima_venta
+Auriculares         2025-08-15
+      Libro         2025-08-15
+ Zapatillas         2025-08-14
+     Pelota         2025-08-14
+   Camiseta         2025-08-13
+
+=====Consejos automáticos=====
+Smartphone: Potencial de altas ventas y buen margen. Sugerencia: priorizar stock y campañas para este producto.
+Smartphone: Buen desempeño en canal online. Sugerencia: reforzar inversión en este canal.
+Smartphone: Ticket promedio alto. Sugerencia: ofrecer bundles o ventas cruzadas para aumentar aún más el ticket.
+Notebook: Ticket promedio alto. Sugerencia: ofrecer bundles o ventas cruzadas para aumentar aún más el ticket.
+Zapatillas: Buen desempeño en canal online. Sugerencia: reforzar inversión en este canal.
+Camiseta: Alto stock y baja rotación. Sugerencia: lanzar promoción o rebaja para evitar sobrestock.
+Heladera: Ticket promedio alto. Sugerencia: ofrecer bundles o ventas cruzadas para aumentar aún más el ticket.
+Bicicleta: Ticket promedio alto. Sugerencia: ofrecer bundles o ventas cruzadas para aumentar aún más el ticket.
+Libro: Alto stock y baja rotación. Sugerencia: lanzar promoción o rebaja para evitar sobrestock.
+Libro: Buen desempeño en canal online. Sugerencia: reforzar inversión en este canal.
+Tablet: Ticket promedio alto. Sugerencia: ofrecer bundles o ventas cruzadas para aumentar aún más el ticket.
+La campaña con más ventas fue 'Verano'. Sugerencia: analizar qué funcionó bien y replicar estrategias similares.
