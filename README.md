@@ -2,7 +2,7 @@
 
 ## Introducción
 
-Este es mi proyecto de análisis de ventas. Lo desarrollé con el objetivo de crear una herramienta práctica para la toma de decisiones empresariales basada en datos reales y métricas clave. Me enfoqué en que el análisis fuera útil tanto para pequeñas empresas como para equipos de marketing, ventas y gerencia. Integré una herramienta de reglas autimaticass que recomendará desiciones a tomar teniendo en cuenta los datos disponibles interpretandolos y conluyendo estrategas óptimas.
+Este es mi proyecto de análisis de ventas. Lo desarrollé con el objetivo de crear una herramienta práctica para la toma de decisiones empresariales basada en datos reales y métricas clave. Me enfoqué en que el análisis fuera útil tanto para pequeñas empresas como para equipos de marketing, ventas y gerencia. Integré una herramienta de reglas automáticas que recomendará desiciones a tomar teniendo en cuenta los datos disponibles interpretandolos y conluyendo estrategias óptimas.
 
 ---
 
@@ -44,7 +44,5 @@ Mi objetivo fue crear una herramienta que ayude a tomar decisiones informadas so
 Solo es necesario actualizar el archivo CSV con los datos de ventas y ejecutar el script. El informe se genera automáticamente en la carpeta de resultados, listo para ser consultado y compartido con el equipo.
 
 ---
-
-## Reflexión final
 
 Considero que este proyecto puede ser una base sólida para automatizar reportes y recomendaciones en cualquier empresa que quiera aprovechar sus datos
